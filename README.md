@@ -1,5 +1,7 @@
 # trade-tracker
 用來紀錄投資的軟體，亦可用在賭博類的遊戲，追蹤自己的帳戶情況
+
+製作流程:
 將要記錄的公式建置好
 並用sqlite當作資料庫 
 gui是tkinter   使用treeview來顯示記錄的資料
